@@ -97,4 +97,14 @@ The collected and structured research will serve as the foundation for a subsequ
 
 ---
 
+## 6. Limitations
+
+This research focuses primarily on publicly available content from LinkedIn, YouTube, podcasts, newsletters, and blogs.
+
+Private communities, paid courses, and closed consulting engagements were not included in the scope of this research.
+
+As a result, findings represent publicly shared expertise rather than proprietary frameworks.
+
+---
+
 *Document version: 1.0 | Research status: Expert discovery complete; content collection in progress*
